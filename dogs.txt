@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 FIRST COMMIT
 SECOND COMMIT
 THIRD COMMIT
+=======
+>>>>>>> parent of d503c74 (Add first commit)
