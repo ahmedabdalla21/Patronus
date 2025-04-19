@@ -4,4 +4,3 @@
 - ninne
 - eleven
 - three
-- six
