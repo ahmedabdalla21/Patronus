@@ -1,3 +1,7 @@
 - Lulu
+<<<<<<< HEAD
 - Meme
 - Susu
+=======
+- Alochy
+>>>>>>> 44fcd1ea6001414f45ed1340aebf397fa03f7089
